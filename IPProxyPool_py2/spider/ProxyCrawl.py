@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import gevent
 from gevent.pool import Pool
 from multiprocessing import Queue, Process, Value

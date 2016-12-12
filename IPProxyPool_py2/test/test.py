@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import requests
 import json
 r = requests.get('http://127.0.0.1:8000/?types=0&count=5&country=中国')

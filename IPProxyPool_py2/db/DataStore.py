@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import sys
 from config import DB_CONFIG
 from util.exception import Con_DB_Fail

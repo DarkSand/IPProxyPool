@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import base64
 import datetime
 from config import QQWRY_PATH, CHINA_AREA

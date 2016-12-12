@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 class ISqlHelper(object):
     params = {'ip':None,'port':None,'types':None,'protocol':None,'country':None,'area':None}

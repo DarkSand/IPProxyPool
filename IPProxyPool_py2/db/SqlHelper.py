@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import datetime
 from sqlalchemy import Column, Integer, String, DateTime,  Numeric, create_engine, VARCHAR
 from sqlalchemy.ext.declarative import declarative_base

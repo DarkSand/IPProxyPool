@@ -1,4 +1,5 @@
-#coding:utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 '''
 定义几个关键字，count type,protocol,country,area,
 '''
