@@ -116,7 +116,7 @@ CHINA_AREA = [u'河北', u'山东', u'辽宁', u'黑龙江', u'吉林'
               u'贵州', u'安徽', u'重庆', u'北京', u'上海', u'天津', u'广西', u'内蒙', u'西藏', u'新疆', u'宁夏', u'香港', u'澳门']
 QQWRY_PATH = os.path.dirname(__file__) + "/data/qqwry.dat"
 
-THREADNUM = 1
+THREADNUM = 5
 API_PORT = 8000
 '''
 爬虫爬取和检测ip的设置条件
